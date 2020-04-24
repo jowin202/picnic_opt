@@ -1,5 +1,6 @@
 #include "include/lowmc.h"
 #include "include/picnic.h"
+#include "include/picnic_opt.h"
 #include "include/picnic_hash.h"
 #include <stdio.h>
 #include <stdlib.h>
